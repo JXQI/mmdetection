@@ -1,0 +1,1 @@
+python tools/misc/browse_dataset.py ./configs/X-ray/mask_rcnn_r50_fpn_2x_voc.py
